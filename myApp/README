@@ -2,3 +2,8 @@ This is your new Play 2.1 application
 =====================================
 
 This file will be packaged with your application, when using `play dist`.
+
+Currently just have log in part, follow by play tutorial.
+will add ws and other feature in future.
+
+
